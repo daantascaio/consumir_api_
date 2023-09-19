@@ -97,7 +97,8 @@
   "code-runner.saveFileBeforeRun": true,
   "code-runner.runInTerminal": true,
   "code-runner.executorMap": {
-      "python": "python3.11 -u"
+    // Path where the Code runner execution a python.exe
+      "python": "clear; C:\\Users\\caio.dantas\\Desktop\\consumir_api_\\env\\Scripts\\python.exe"
 },
-"python.formatting.provider": "none",
+//"python.formatting.provider": "none",
 }
