@@ -10,9 +10,9 @@ url = "http://127.0.0.1:3001/alunos"
 headers = {"Authorization": token}
 
 aluno_data = {
-    "nome": "Goes",
-    "sobrenome": "Vieira",
-    "email": "goes@email.com",
+    "nome": "Rodrigoao",
+    "sobrenome": "Fruto",
+    "email": "rodrigo123123123@email.com",
     "idade": "50",
     "peso": "80.04",
     "altura": "1.90",
