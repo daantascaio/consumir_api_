@@ -5,7 +5,7 @@ from get_token import token
 _print = print
 print = pprint
 
-url = "http://127.0.0.1:3001/alunos/11"
+url = "http://127.0.0.1:3001/alunos/2"
 
 headers = {}  # "Authorization": token
 

@@ -6,7 +6,7 @@ print = pprint
 
 url = "http://127.0.0.1:3001/tokens"
 
-user_data = {"password": "123456", "email": "administrador@email.com"}
+user_data = {"password": "123456", "email": "luiz@email.com"}
 
 response = requests.post(url=url, json=user_data)
 
