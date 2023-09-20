@@ -98,7 +98,7 @@
   "code-runner.runInTerminal": true,
   "code-runner.executorMap": {
     // Path where the Code runner execution a python.exe
-      "python": "clear; C:\\Users\\caio.dantas\\Desktop\\consumir_api_\\env\\Scripts\\python.exe"
+      "python": "C:\\Users\\caio.dantas\\Desktop\\consumir_api_\\env\\Scripts\\python.exe"
 },
 //"python.formatting.provider": "none",
 }
